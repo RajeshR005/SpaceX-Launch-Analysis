@@ -15,7 +15,7 @@ This Power BI dashboard analyzes SpaceX launch data, visualizing mission outcome
 - **CSV Dataset** (Launch Records)
 
 ## 📷 Dashboard Preview
-![SpaceX Dashboard](Screenshot%202025-02-28%20122032.png)
+![SpaceX Dashboard](outputimages/Screenshot%202025-02-28%20122032.png)
 
 ## 📂 Files in this Repository
 | File | Description |
