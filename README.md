@@ -28,20 +28,7 @@ This Power BI dashboard analyzes SpaceX launch data, visualizing mission outcome
 2. Open it in **Power BI Desktop**
 3. Click "Refresh" to update data
 
-## 🔗 Live Dashboard (Optional)
+## 🔗 Live Dashboard 
 [Power BI Service Link]()
 
----
 
-4. Click **"Commit new file"** to save the README.
-
----
-
-## **Step 3: (Optional) Publish the Dashboard Online**
-1. Open **Power BI Desktop**.
-2. Click **"Publish"** (You need a Power BI Service account).
-3. Copy the **Public Share Link** and add it to your README under **🔗 Live Dashboard**.
-
----
-
-### ✅ Let me know once you have uploaded everything! I’ll guide you on updating your portfolio. 🚀
